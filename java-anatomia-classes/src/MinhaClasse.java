@@ -10,6 +10,7 @@ public class MinhaClasse {
         boolean falsa = true;// tipo(boolean),(nomeBemDefinido "falsa") = Atribuição(false)
         boolean falsa = false;// tipo(boolean),(nomeBemDefinido "falsa") = Atribuição(true)
         
+        
 
     }
     
